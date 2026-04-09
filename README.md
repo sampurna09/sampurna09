@@ -71,7 +71,7 @@
 ### 🚀 Featured Projects
 
 * 🔹 **Financial System APIs (FCGO)** – Government-level integration systems
-* 🔹 **Payment Integrations (Fonepay, NCHL)**
+* 🔹 **Payment Integrations (NCHL)**
 * 🔹 **Enterprise Java Applications** with Spring Boot
 
 ---
